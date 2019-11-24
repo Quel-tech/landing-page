@@ -1,0 +1,67 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica,Arial,sans-serif;
+  padding: 10%;
+  background: #f6f6f6;
+  color: #ccc;
+
+}
+
+.box-logo {
+  display: flex;
+  align-items:center;
+  padding-bottom: 10px;
+} 
+
+.logo {
+  width: 60px;
+  height: 60px;
+}
+
+span {
+  line-height: 115%;
+  font-size: 210%;
+  font-weight: 700;
+}
+
+.pronunciation {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+.with-gradient {
+  background: -webkit-linear-gradient(#135079, #008fd7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title {
+  font-size: 400%;
+}
+
+.line {
+  font-size: 200%;
+}
+
+.social {
+  margin-top:15px;
+}
+
+.social a {
+  color: #ccc;
+  text-decoration: none;
+  line-height: 175%;
+  padding-left: 12px;
+  font-size:12px;
+}
+
+.social a:hover {
+  color: #008fd7;
+}
+
+.social a i {
+  font-size: 20px;
+}
+
