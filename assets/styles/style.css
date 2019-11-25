@@ -28,7 +28,8 @@ span {
 }
 
 .pronunciation {
-  font-family: Helvetica,Arial,sans-serif;
+  display: block;
+  padding-bottom: 15px;
 }
 
 .with-gradient {
